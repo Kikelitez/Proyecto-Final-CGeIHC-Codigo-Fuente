@@ -1,0 +1,46 @@
+# Blender MTL File: 'Desierto.blend'
+# Material Count: 4
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.035601 0.138432 0.026241
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Texturas Casa\\Jardin\\Pasto.png
+
+newmtl Muro_de_piedras
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Texturas Casa\\Jardin\\muro piedras.png
+
+newmtl Rampa_y_Escaleras
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Texturas Casa\\cemento.png
+
+newmtl Sand_Dunes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.539480 0.445201 0.215861
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Texturas Casa\\Jardin\\Desierto.png
