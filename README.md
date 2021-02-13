@@ -4,9 +4,6 @@ Laboratorio de Computación e Interacción Humano-Computadora Grupo 05
 | Integrantes                    | 
 | ------------------------------ | 
 | Méndez Cabrera Ana Belem       |
-| ------------------------------ |
-| Integrantes de laboratorio     | 
-| ------------------------------ |
 | Méndez Cabrera Luis Enrique    | 
 | Riaño Enriquez Donovan         |
 
